@@ -1,7 +1,7 @@
 ---
 title: This is my title
 
-----
+---
 
 ## Welcome to GitHub Pages
 
