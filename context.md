@@ -11,5 +11,4 @@
 
 
 
-Вдохновение от выступления Алана Савори.
-https://www.youtube.com/watch?v=3UaeVaIqXgg
+Вдохновение от [выступления Алана Савори](https://www.youtube.com/watch?v=3UaeVaIqXgg).
